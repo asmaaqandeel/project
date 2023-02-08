@@ -136,13 +136,12 @@ background-repeat: no-repeat;
 }
 .hoc{
 position: absolute;
-top:50%;
+top:30%;
 left:46%;
 transform: translate(-50%,-50%);
 text-align: center;
 width:65%;
 right: 10%;
-top: -10px;
 
 }
 .hoc .hhh {
